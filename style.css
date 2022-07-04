@@ -1,0 +1,23 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 90vh;
+    
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 80%;
+}
+
+button{
+    width: 40px;
+    font-weight: bold;
+    color: blueviolet;
+}
